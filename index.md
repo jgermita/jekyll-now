@@ -4,7 +4,6 @@ layout: default
 
 <div class="tech-slideshow">
   <div class="mover-1"></div>
-  <div class="mover-2"></div>
 </div>
 
 # Blog
