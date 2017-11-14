@@ -61,9 +61,14 @@ A short demo of APL and Whiteboard are shown below:
 
 [![demo](https://img.youtube.com/vi/iK8YCYPBgzU/0.jpg)](https://www.youtube.com/watch?v=iK8YCYPBgzU&feature=youtu.be)
 
-You can view the entire system as of the end of the event [here.](https://docs.google.com/spreadsheets/d/1sgMFYy1W4-KNFZGhsyPzQ1Qby11oNo8Zl0JMXrbK8z8/edit?usp=sharing)
+# Under the Hood
+
+The Google Sheet heavily relies on Google's implementation of [queries](https://support.google.com/docs/answer/3093343?hl=en) to do all of the heavy lifting. Using common database queries, we can quickly reference data dynamically wherever we'd need. Using a combination of queries and the powerful equation engine of Google Sheets, we were able to automate 100% of the data aggregation and analysis done. 
 
 # Further Improvements
 
 This system was a massive step forward for Gryffingear scouting, but it is far from perfect. During the event, we encountered multiple bugs. These would have been mitigated by more intensive pre-event testing. 
 Potentially, this sheet could just expose the data as a database so that we could develop a more focused application to view the data. 
+
+
+You can view the entire system as of the end of the event [here.](https://docs.google.com/spreadsheets/d/1sgMFYy1W4-KNFZGhsyPzQ1Qby11oNo8Zl0JMXrbK8z8/edit?usp=sharing)
