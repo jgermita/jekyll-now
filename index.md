@@ -8,7 +8,7 @@ layout: default
 
 # Blog
 
-Semi-coherent ramblings about the things I work on.
+_Semi-coherent ramblings about the things I work on._
 
 <div class="posts">
   {% for post in site.posts %}
