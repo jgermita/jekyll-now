@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## this is test text!
+<div class="tech-slideshow">
+  <div class="mover-1"></div>
+</div>
 
 # Blog
 
