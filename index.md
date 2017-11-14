@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## this is test text!
+
+# Blog
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">

@@ -49,7 +49,26 @@ Data on each specific team is eventually summarized by the AllTeamData sheet. Th
 
 This view is what I used most frequently as a coach. It uses data from the AllTeamData and Pit Scouting sheets and presents it in large and easy to read format (semi-optimized for mobile) so that I can run queries on specific teams and quickly bring up their data. What used to take hours under our 2016 scouting system took a mere 5 seconds with the 2017 offseason system.
 
+![auto picklist](https://i.imgur.com/YwmLyApl.png)
 
-# Acknowledgements
+The next most useful feature of the new system. By using the ATD sheet, each team is scored on a weighted sum of their average gears, climb percentage, died percentage, and other metrics. Doing this, we can automatically generate a pick list to use during alliance selections. Our third pick ended up being a team from the APL. The APL view also has cells that allow us to indicate whether or not teams are picked or should be skipped so that the next major component of the system can work.
+
+![Whiteboard View](https://i.imgur.com/Xr3VgxAl.png)
+
+Whiteboard View! Filling a long-time need in FRC to have a clear, easy to read, "whiteboard" type view, this allows us to communicate to our alliance selections representative from the stands. This was brought up on a 10.1" tablet and displayed to our reps from over 50ft away. This view also has options for "ACCEPT", "DENY", or "DEFER" so that we can fully communicate to our representative. Inspiration for this was drawn by numerous mishaps by my teams as well as countless others to clearly communicate these on-the-fly picks to their rep.
+
+A short demo of APL and Whiteboard are shown below:
+
+[![demo](https://img.youtube.com/vi/iK8YCYPBgzU/0.jpg)](https://www.youtube.com/watch?v=iK8YCYPBgzU&feature=youtu.be)
+
+# Under the Hood
+
+The Google Sheet heavily relies on Google's implementation of [queries](https://support.google.com/docs/answer/3093343?hl=en) to do all of the heavy lifting. Using common database queries, we can quickly reference data dynamically wherever we'd need. Using a combination of queries and the powerful equation engine of Google Sheets, we were able to automate 100% of the data aggregation and analysis done. 
+
+# Further Improvements
+
+This system was a massive step forward for Gryffingear scouting, but it is far from perfect. During the event, we encountered multiple bugs. These would have been mitigated by more intensive pre-event testing. 
+Potentially, this sheet could just expose the data as a database so that we could develop a more focused application to view the data. 
 
 
+You can view the entire system as of the end of the event [here.](https://docs.google.com/spreadsheets/d/1sgMFYy1W4-KNFZGhsyPzQ1Qby11oNo8Zl0JMXrbK8z8/edit?usp=sharing)

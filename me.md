@@ -7,7 +7,7 @@ In addition to helpdesk duties, developed and coordinated system- and campus-wid
 ### Team Advisor / Lead Engineering Mentor - [Team 5012 Gryffingear](http://www.gryffingear.com/) - August 2013 to Current.
 ![ ](https://i.imgur.com/IkCsqsUm.jpg)
 
-Coordinates with school administration and faculty to facilitate unparalleled opportunities for high school students to work with industry professionals to design, build, and program World Championship caliber roboots for the FIRST Robotics Competition.
+Coordinates with school administration and faculty to facilitate unparalleled opportunities for high school students to work with industry professionals to design, build, and program World Championship caliber robots for the FIRST Robotics Competition.
 
 As a team, we've won multiple regional events and the 2015 World Championship in addition to continued community outreach to promote enthusiasm for STEM fields.
 
