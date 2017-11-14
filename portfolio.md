@@ -3,8 +3,8 @@
 Here's a collection of various personal mechanical, electrical, and software design projects I've worked on.
 
 ### Echo - Summer 2017
-
-2nd Generation small scale combat robot with custom designed frame and control system. Structure is designed in Autodesk Inventor and manufactured using waterjet and CNC milling machines. Testbed for various control concepts and ideas utilizing a raspberry pi.
+![ ](https://i.imgur.com/mOHeoP1m.png)
+2nd Generation small scale combat robot with custom designed frame. Structure is designed in Autodesk Inventor and manufactured using waterjet and CNC milling machines.
 
 ### [frc-parts](https://jgermita.github.io/frc-parts/) - Summer 2017
 ![ ](http://i.imgur.com/hxE89kVm.png)
