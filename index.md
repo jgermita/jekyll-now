@@ -8,6 +8,8 @@ layout: default
 
 # Blog
 
+Semi-coherent ramblings about the things I work on.
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
