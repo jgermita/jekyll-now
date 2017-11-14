@@ -4,7 +4,8 @@ Here's a collection of various personal mechanical, electrical, and software des
 
 ### Echo - Summer 2017
 ![ ](https://i.imgur.com/mOHeoP1m.png)
-2nd Generation small scale combat robot with custom designed frame. Structure is designed in Autodesk Inventor and manufactured using waterjet and CNC milling machines.
+
+15lb scale combat robot with custom designed frame and components. Structure is designed in Autodesk Inventor and manufactured using waterjet and CNC milling machines.
 
 ### [frc-parts](https://jgermita.github.io/frc-parts/) - Summer 2017
 ![ ](http://i.imgur.com/hxE89kVm.png)
@@ -14,7 +15,7 @@ Platform for the archival and documentation of commonly-used and niche parts in 
 ### [Blackout](https://www.youtube.com/watch?v=wirLJnvzQlU) - Winter 2016
 [![Blackout](http://i.imgur.com/N1YtRkDm.png)](https://www.youtube.com/watch?v=wirLJnvzQlU "blackout")
 
-Small scale combat robot with custom designed frame and control system.
+15lb scale combat robot with custom designed frame and control system.
 
 ### frc-oracle - Spring 2016
 ![ ](http://i.imgur.com/ZnsLNY8m.png)
