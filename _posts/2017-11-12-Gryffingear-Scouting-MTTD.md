@@ -57,3 +57,6 @@ The next most useful feature of the new system. By using the ATD sheet, each tea
 
 Whiteboard View! Filling a long-time need in FRC to have a clear, easy to read, "whiteboard" type view, this allows us to communicate to our alliance selections representative from the stands. This was brought up on a 10.1" tablet and displayed to our reps from over 50ft away. This view also has options for "ACCEPT", "DENY", or "DEFER" so that we can fully communicate to our representative. Inspiration for this was drawn by numerous mishaps by my teams as well as countless others to clearly communicate these on-the-fly picks to their rep.
 
+A short demo of APL and Whiteboard are shown below:
+[![demo](https://img.youtube.com/vi/iK8YCYPBgzU/0.jpg)](https://www.youtube.com/watch?v=iK8YCYPBgzU&feature=youtu.be)
+
