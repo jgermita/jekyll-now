@@ -49,7 +49,11 @@ Data on each specific team is eventually summarized by the AllTeamData sheet. Th
 
 This view is what I used most frequently as a coach. It uses data from the AllTeamData and Pit Scouting sheets and presents it in large and easy to read format (semi-optimized for mobile) so that I can run queries on specific teams and quickly bring up their data. What used to take hours under our 2016 scouting system took a mere 5 seconds with the 2017 offseason system.
 
+![auto picklist](https://i.imgur.com/YwmLyApl.png)
 
-# Acknowledgements
+The next most useful feature of the new system. By using the ATD sheet, each team is scored on a weighted sum of their average gears, climb percentage, died percentage, and other metrics. Doing this, we can automatically generate a pick list to use during alliance selections. Our third pick ended up being a team from the APL. The APL view also has cells that allow us to indicate whether or not teams are picked or should be skipped so that the next major component of the system can work.
 
+![Whiteboard View](https://i.imgur.com/Xr3VgxAl.png)
+
+Whiteboard View! Filling a long-time need in FRC to have a clear, easy to read, "whiteboard" type view, this allows us to communicate to our alliance selections representative from the stands. This was brought up on a 10.1" tablet and displayed to our reps from over 50ft away. This view also has options for "ACCEPT", "DENY", or "DEFER" so that we can fully communicate to our representative. Inspiration for this was drawn by numerous mishaps by my teams as well as countless others to clearly communicate these on-the-fly picks to their rep.
 
