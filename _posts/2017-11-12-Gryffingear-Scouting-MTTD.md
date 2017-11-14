@@ -5,7 +5,7 @@ title: Gryffingear Scouting at the 2017 Madtown Throwdown
 
 This post will look at the key features of Gryffingear's scouting system for the 2017 Madtown Throwdown. This scouting system was integral in making informed strategy decisions throughout qualification matches, during alliance selections, and into eliminations matches. 
 
-The scouting system draws heavy inspiration from teams 2659 and 987 and is built on the groundwork laid by Gryffingear alumni Brian Romero, Javier Serna, and Christian Perry during the 2017 competition season. 
+The scouting system is built on the groundwork laid by Gryffingear alumni Brian Romero, Javier Serna, and Christian Perry during the 2017 competition season thanks to the assistance and advice from numerous other teams. 
 
 # Goals
 
@@ -64,6 +64,18 @@ A short demo of APL and Whiteboard are shown below:
 # Under the Hood
 
 The Google Sheet heavily relies on Google's implementation of [queries](https://support.google.com/docs/answer/3093343?hl=en) to do all of the heavy lifting. Using common database queries, we can quickly reference data dynamically wherever we'd need. Using a combination of queries and the powerful equation engine of Google Sheets, we were able to automate 100% of the data aggregation and analysis done. 
+
+Here's the equation that forms the backbone of the Team Summary sheet. It queries the form response data to show basic stats on a team's performance match by match.
+
+`=IFERROR(IF(len(D1)=0,"Please choose a value in D1",query(team_data!A5:S31,"Select C, M, N, O, P, Q, R, S, L Where D = "&D1&" order by C")),)`
+
+The `IFERROR()` is a nice way to keep the cells blank if no data is found. Otherwise, they'd be populated with zeros or other error text. `IF(len(D10)=0` checks to see if the input cell(the team to query for) is empty and produces an error message if it is empty. The real meat of this equation is in the `query()` The first argument is the dataset to query and the second argument is the query itself. It will return columns C, M, N, O, P, Q, R, S, and L where column D in the dataset is equal to cell D1, then sorts this new dataset by column C (match number).
+
+Here's the output:
+
+![ ](https://i.imgur.com/PFkM0Fal.png)
+
+
 
 # Further Improvements
 
