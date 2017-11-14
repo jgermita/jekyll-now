@@ -58,5 +58,12 @@ The next most useful feature of the new system. By using the ATD sheet, each tea
 Whiteboard View! Filling a long-time need in FRC to have a clear, easy to read, "whiteboard" type view, this allows us to communicate to our alliance selections representative from the stands. This was brought up on a 10.1" tablet and displayed to our reps from over 50ft away. This view also has options for "ACCEPT", "DENY", or "DEFER" so that we can fully communicate to our representative. Inspiration for this was drawn by numerous mishaps by my teams as well as countless others to clearly communicate these on-the-fly picks to their rep.
 
 A short demo of APL and Whiteboard are shown below:
+
 [![demo](https://img.youtube.com/vi/iK8YCYPBgzU/0.jpg)](https://www.youtube.com/watch?v=iK8YCYPBgzU&feature=youtu.be)
 
+You can view the entire system as of the end of the event [here.](https://docs.google.com/spreadsheets/d/1sgMFYy1W4-KNFZGhsyPzQ1Qby11oNo8Zl0JMXrbK8z8/edit?usp=sharing)
+
+# Further Improvements
+
+This system was a massive step forward for Gryffingear scouting, but it is far from perfect. During the event, we encountered multiple bugs. These would have been mitigated by more intensive pre-event testing. 
+Potentially, this sheet could just expose the data as a database so that we could develop a more focused application to view the data. 
