@@ -69,7 +69,13 @@ Here's the equation that forms the backbone of the Team Summary sheet. It querie
 
 `=IFERROR(IF(len(D1)=0,"Please choose a value in D1",query(team_data!A5:S31,"Select C, M, N, O, P, Q, R, S, L Where D = "&D1&" order by C")),)`
 
-The `IFERROR()` is a nice way to keep the cells blank if no data is found. Otherwise, they'd be populated with zeros or other error text. `IF(len(D10)=0` checks to see if the input cell(the team to query for) is empty and produces an error message if it is empty. The real meat of this equation is in the `query()` The first argument is the dataset to query and the second argument is the query itself. It will return columns C, M, N, O, P, Q, R, S, and L where column D in the dataset is equal to cell D1, then sorts this new dataset by column C (match number).
+The `IFERROR()` is a nice way to keep the cells blank if no data is found. Otherwise, they'd be populated with zeros or other error text. `IF(len(D10)=0` checks to see if the input cell(the team to query for) is empty and produces an error message if it is empty. 
+
+The real meat of this equation is in the `query()`, stripped down below:
+
+`query(team_data!A5:S31,"Select C, M, N, O, P, Q, R, S, L Where D = "&D1&" order by C")`
+
+The first argument is the dataset to query and the second argument is the query itself. It will return columns C, M, N, O, P, Q, R, S, and L where column D in the dataset is equal to cell D1, then sorts this new dataset by column C (match number).
 
 Here's the output:
 
