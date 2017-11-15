@@ -81,6 +81,10 @@ Here's the output:
 
 ![ ](https://i.imgur.com/PFkM0Fal.png)
 
+From here, we now have a nice looking set of data to perform `average()`, `min()`, `max()`, or other equations on:
+
+![](https://i.imgur.com/TRDF9Oyl.png)
+
 
 
 # Further Improvements
