@@ -63,7 +63,7 @@ A short demo of APL and Whiteboard are shown below:
 
 # Under the Hood
 
-The Google Sheet heavily relies on Google's implementation of [queries](https://support.google.com/docs/answer/3093343?hl=en) to do all of the heavy lifting. Using common database queries, we can quickly reference data dynamically wherever we'd need. Using a combination of queries and the powerful equation engine of Google Sheets, we were able to automate 100% of the data aggregation and analysis done. 
+The Google Sheet heavily relies on Google's implementation of [queries](https://support.google.com/docs/answer/3093343?hl=en) to do all of the heavy lifting. The language used by Google Sheets is a stripped down version of common database query languages like SQL. Using common database queries, we can quickly reference data dynamically wherever we'd need. Using a combination of queries and the powerful equation engine of Google Sheets, we were able to automate 100% of the data aggregation and analysis done. 
 
 Here's the equation that forms the backbone of the Team Summary sheet. It queries the form response data to show basic stats on a team's performance match by match.
 
@@ -85,12 +85,25 @@ From here, we now have a nice looking set of data to perform `average()`, `min()
 
 ![](https://i.imgur.com/TRDF9Oyl.png)
 
-
-
-# Further Improvements
+# Improvements
 
 This system was a massive step forward for Gryffingear scouting, but it is far from perfect. During the event, we encountered multiple bugs. These would have been mitigated by more intensive pre-event testing. 
 Potentially, this sheet could just expose the data as a database so that we could develop a more focused application to view the data. 
 
 
 You can view the entire system as of the end of the event [here.](https://docs.google.com/spreadsheets/d/1sgMFYy1W4-KNFZGhsyPzQ1Qby11oNo8Zl0JMXrbK8z8/edit?usp=sharing)
+
+# Acknowledgements
+
+This system was inspired by efforts and techniques by teams 987, 973, 2659, 1678, and numerous other inspiring teams we've been fortunate enough to compete with and against over the years. Scouting can make or break a competition for teams and these teams show year in and out how to fully leverage the data to consistently win matches and events. 
+
+A tool is only as useful as its users. Our scouting team at Madtown Throwdown 2017 did a fantastic job at entering quality data on each and every match. Scouting is not a glamorous job, nor is it always fun. I'm grateful to them for putting in the effort to support the team's strategic efforts on and off the field. 
+
+# Further Reading
+
+An understanding of Google sheets equations and queries are critical in buildinga scouting system of this scale. Below are a couple of links that dive into topics relevant to the techniques used in this scouting system. 
+
+* [Equations tutorial](https://www.thoughtco.com/google-spreadsheet-formula-tutorial-3123950)
+* [Tutorial on Query](https://codingisforlosers.com/google-sheets-query-function/)
+* [Index-match](http://www.mbaexcel.com/excel/why-index-match-is-better-than-vlookup/) - Faster than vlookup
+
