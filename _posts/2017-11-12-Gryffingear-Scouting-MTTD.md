@@ -97,6 +97,8 @@ You can view the entire system as of the end of the event [here.](https://docs.g
 
 This system was inspired by efforts and techniques by teams 987, 973, 2659, 1678, and numerous other inspiring teams we've been fortunate enough to compete with and against over the years. Scouting can make or break a competition for teams and these teams show year in and out how to fully leverage the data to consistently win matches and events. 
 
+Gryffingear class of 2017 alumni Brian Romero, Javier Serna, and Christian Perry laid solid groundwork for much of this system during the competition season. The effects of their efforts will be felt for years to come. 
+
 A tool is only as useful as its users. Our scouting team at Madtown Throwdown 2017 did a fantastic job at entering quality data on each and every match. Scouting is not a glamorous job, nor is it always fun. I'm grateful to them for putting in the effort to support the team's strategic efforts on and off the field. 
 
 # Further Reading
