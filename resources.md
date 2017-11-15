@@ -9,5 +9,5 @@
 
 ### frc-parts
 
-### [Yo-Yo Design Resources](https://jgermita.github.io/yoyo-design)
+### [Yo-Yo Design Resources]({{ site.baseurl }}/yoyo-design)
 
