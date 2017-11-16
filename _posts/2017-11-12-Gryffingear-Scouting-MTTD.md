@@ -59,7 +59,7 @@ Whiteboard View! Filling a long-time need in FRC to have a clear, easy to read, 
 
 A short demo of APL and Whiteboard are shown below:
 
-[![demo](https://img.youtube.com/vi/iK8YCYPBgzU/0.jpg)](https://www.youtube.com/watch?v=iK8YCYPBgzU&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iK8YCYPBgzU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 # Under the Hood
 
