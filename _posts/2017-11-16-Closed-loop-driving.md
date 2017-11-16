@@ -21,7 +21,7 @@ We'll be looking at the setup used on Gryffingear's offseason robot, [Nagini](ht
 
 The relevant hardware setup is below:
 * Drivetrain geared for 18ft/sec linear speed.
-* Cross the Road Electronics [Pigeon IMU](http://www.ctr-electronics.com/gadgeteer-imu-module-pigeon.html)
+* Cross the Road Electronics [Pigeon IMU](http://www.ctr-electronics.com/gadgeteer-imu-module-pigeon.html) (Any sensor that returns a yaw rate is acceptable. just make sure the robot doesn't saturate it when in a full speed turn.)
 
 Below is the code used on the robot. It is a P loop on the yaw rate of the drivetrain. It converts the driver's turning input into a yaw rate(turning speed) setpoint that a P controller will work to follow. 
 
