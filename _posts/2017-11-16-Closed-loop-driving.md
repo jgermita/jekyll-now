@@ -24,13 +24,13 @@ The relevant hardware setup is below:
 
 Below is the code used on the robot. It is a P loop on the yaw rate of the drivetrain. It converts the driver's turning input into a yaw rate(turning speed) setpoint that a P controller will work to follow. 
 
-``
+```
 double kSt = -0.00125;	// unit conversion for yaw-rate to turning units
 double kP = 1.750;	// tuning constant, higher is more sensitive.
 double input = drivetrain.getRawRate() * kSt;
 	
 turning = kP * (turning - input);
-``
+```
 
 `kSt` is a unit conversion to convert the data from the yaw rate sensor(gyro) to +/- 1.0 that the drive functions expect. 
 
