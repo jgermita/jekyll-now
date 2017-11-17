@@ -3,15 +3,15 @@ layout: post
 title: Closed-loop driving assist for skid steer robots
 ---
 
-Problem: I like fast robots
+Problem: _I like fast robots_
 
-Problem: Fast robots are often difficult to control
+Problem: _Fast robots are often difficult to control_
 
-Problem: I like fixing things in software.
+Problem: _I like fixing things in software._
 
-Solution: Closed-loop driving.
+Solution: _Closed-loop driving._
 
-There are certain maneuvers you perform as a driver to compensate for the behavior of the robot - pull back once you've hit your target to counteract inertia, sharply increase power at the beginning of the move to "kick" the robot into drive, react to other robots trying to turn your robot, etc. Using commonly available sensors, we can automatically do these compensations without the driver having to think twice. This makes the robot's drivetrain significantly more controllable, predictable, and intuitive to drive. 
+There are certain maneuvers you perform as a driver to compensate for the behavior of the robot - pull back once you've hit your target to counteract inertia, sharply increase power at the beginning of the move to "kick" the robot into drive, react to other robots trying to turn your robot, etc. Using commonly available sensors, we can automatically do these compensations without the driver having to think twice. This makes the robot's drivetrain significantly more controllable, predictable, and intuitive to drive. Team 254's cheesy drive, specificially the negative inertia feature, is a great open-loop feedforward solution. This method takes that a step further by closing the loop with a sensor. 
 
 A robot's motion can be described in one of two vectors - fwd/rev, and cw/ccw turning. This post will talk about closing the loop for cw/ccw turning but similar concepts can be used for fwd/rev.
 
@@ -42,13 +42,16 @@ turning = kP * (turning - input);
 
 `turning` is the turning command output. A simple P controller on the turning setpoint and yaw rate setpoint. 
 
-`[insert video of performance]`
+# Behavior and Benefits
 
-# Benefits
+With this control loop, the robot will actively try to maintain a constant turning rate regardless of any disturbances. During in-shop testing, it actually masked an issue with a binding drive gearbox for a couple of days before we noticed it. On the field, we were able to maintain heading despite contact with other robots.
 
 Overall, this technique has allowed our drivetrain to behave in a more predictable and intuitive manner. This can be ported to other mobile robotics applications. I plan on doing something similar on a combat robot drivetrain I've been working on. 
-
 
 # Observed Issues
 
 At Madtown Throwdown [SF1-2](https://www.thebluealliance.com/match/2017mttd_sf1m2), we encountered an issue where either `turning` or `input` weren't updating so we were stuck in a full turn condition until we were able to reboot the robot code. It worked as intended at the beginning of the match and again after the reboot, but we are unable to identify the root-cause of this failure mode at this time. One potential improvement would be to check if either value is updating as expected and to disable the control loop if necessary. A failure mode like this on most other robots could be catastrophic. 
+
+# Improvements
+
+In addition to graceful degradation features to prevent the SF1-2 error from affecting us, this method could be extended to the fwd/rev vector using some sort of speed sensor (encoders? integrate the pigeon's accelerometer reading?). If this were implemented on a shifting drivetrain or other drive with multiple modes, the `kP` constant should be tuned accordingly for each mode. 
