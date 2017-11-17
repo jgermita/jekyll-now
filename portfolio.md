@@ -44,3 +44,9 @@ Converting DJ Hero and Wii Nunchuk controllers to a fully functional MIDI contro
 ![ ](http://i.imgur.com/tmrTziRm.png)
 
 Modified second-hand MIDI Keyboard into a functional MIDI controller utilizing a Maple ARM microcontroller. 
+
+### 3D Printed Yoyo - Fall 2012
+![ ](https://i.imgur.com/KSvIhSWm.jpg)
+
+Designed a fully playable yoyo in Autodesk Inventor. Competed with this yoyo at a regional yoyo contest.
+
