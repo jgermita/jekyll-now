@@ -48,5 +48,5 @@ Modified second-hand MIDI Keyboard into a functional MIDI controller utilizing a
 ### 3D Printed Yoyo - Fall 2012
 ![ ](https://i.imgur.com/KSvIhSWm.jpg)
 
-Designed a fully playable yoyo in Autodesk Inventor. Competed with this yoyo at a regional yoyo contest.
+Designed a fully playable yoyo in Autodesk Inventor. Competed with this yoyo at a [regional yoyo contest.](https://www.youtube.com/watch?v=KtLQXkTcaag)
 
