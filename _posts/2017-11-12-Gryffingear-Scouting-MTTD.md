@@ -91,6 +91,7 @@ This system was a massive step forward for Gryffingear scouting, but it is far f
 There were minor inconsistencies in how the users entered data, but that could be mitigated in the future by proper training and testing on the system.
 Potentially, this sheet could just expose the data as a database so that we could develop a more focused application such as Tableau or some other custom app to view the data. 
 
+Moving forward, an elims view would also be good as would be a way to view elims matches in the match summary view.
 
 You can view the entire system as of the end of the event [here.](https://docs.google.com/spreadsheets/d/1sgMFYy1W4-KNFZGhsyPzQ1Qby11oNo8Zl0JMXrbK8z8/edit?usp=sharing)
 
