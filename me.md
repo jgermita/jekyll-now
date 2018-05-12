@@ -1,7 +1,7 @@
 
 # Experience
 ## Current
-### Network Support Technician - [The Palmdale Aerospace Academy](http://www.tpaa.org/) - June 2015 to Current.
+### Network Systems Administrator - [The Palmdale Aerospace Academy](http://www.tpaa.org/) - June 2015 to Current.
 In addition to helpdesk duties, developed and coordinated system- and campus-wide maintenance and service procedures. Assisted with the setup and configuration of a network servicing over 2000 staff member and student user accounts and over 2500 clients utilizing Cisco and Cisco-Meraki equipment. Other duties: Windows server administration, device specifications and procurement, and STEM technology support and maintenance(3D printers, CNC routers, etc).
 
 ### Team Advisor / Lead Engineering Mentor - [Team 5012 Gryffingear](http://www.gryffingear.com/) - August 2013 to Current.
