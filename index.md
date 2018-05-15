@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-
-<div class="tech-slideshow">
-  <div class="mover-1"></div>
-</div>
+<div class="tech-slideshow"><div class="mover-1"></div></div>
 
 # Blog
 
