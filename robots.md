@@ -9,7 +9,7 @@ Here are the robots I've helped build as a participant of the program.
 
 ---
 # Team 399 Eagle Robotics (2010 - 2014)
-![](https://i.imgur.com/ZKOR1Vam.jpg "Cortex") ![](https://i.imgur.com/SsO8cram.png "ENIAC") ![](https://i.imgur.com/SsO8cram.png "X-1") ![](https://i.imgur.com/SsO8cram.png "Honey Badger") ![](https://i.imgur.com/SsO8cram.png "James Bot") ![](https://i.imgur.com/SsO8cram.png "The Wizard")  
+![](https://i.imgur.com/ZKOR1Vam.jpg "Cortex") ![](https://i.imgur.com/djcFXSpm.jpg "ENIAC") ![](https://i.imgur.com/VJEp60Vm.jpg "X-1") ![](https://i.imgur.com/wwQPFRnm.jpg "James Bot") ![](https://i.imgur.com/KzRO0cRm.jpg "The Wizard")  
 
 ---
 # Team 72 GarageBots
