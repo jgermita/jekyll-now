@@ -14,8 +14,6 @@ I've been building combat robots as (another) (very expensive) hobby since 2016.
 
 ![](https://i.imgur.com/9s8z3tam.jpg "Sandstorm") 
 
-**Status:** Active
-
 **Record:** 0-0
 
 **Weight Class:** 3lb
@@ -24,15 +22,17 @@ I've been building combat robots as (another) (very expensive) hobby since 2016.
 
 **Built:** Summer 2018
 
-Echo but smaller and better. 
+**Weapon:** Vertical spinner. 4.7" effective diameter. S7 Tool Steel (54HRc)
+
+**Drivetrain:** Botkits 22mm motors / Botkits 2.75"x1" foam wheels - 9 ft/sec / 6 mph
+
+Echo but smaller and better. Features an ABS unibody frame, 6061 structural rails, S7 weapon, and Grade 5 titanium front armor
 
 ---
 
 ![](https://i.imgur.com/4i1ynSF.png "Echo") 
 
 ![](https://i.imgur.com/mOHeoP1m.png "Echo") 
-
-**Status:** Active
 
 **Record:** 0-0
 
@@ -41,6 +41,10 @@ Echo but smaller and better.
 **Actual Weight:** 11.8lb
 
 **Built:** Summer 2017
+
+**Weapon:** Vertical spinner. 5.5" effective diameter asymmetrical drum. 6061 drum installed, upgrades to S7 weapon planned
+
+**Drivetrain:** NTM Propdrive 35 series motors / 3.25" Vex Versawheels - 20 ft/sec / 13 mph
 
 Second attempt with an emphasis on more efficient packaging and cleaner aesthetics. Featured #allbrushlesseverything and anodized parts throughout. Improved on Blackout's traction and weapon issues. Need to improve wedge mounting and geometry before Echo is ready for combat. 
 
@@ -51,8 +55,6 @@ Second attempt with an emphasis on more efficient packaging and cleaner aestheti
 ![](https://i.imgur.com/v1N655V.png "Blackout") 
 
 ![](https://i.imgur.com/iRiYpj0m.jpg "Blackout")
-
-**Status:** Retired
 
 **Record:** 0-0
 
@@ -76,7 +78,7 @@ Controls testbed for Blackout
 
 ![](https://i.imgur.com/XA5vA93.png "Mirage") 
 
-**Status:** Coming Soon
+![](https://i.imgur.com/2gkhBRd.png "Mirage") 
 
 **Record:** 0-0
 
@@ -92,7 +94,7 @@ Controls testbed for Blackout
 
 ![](https://i.imgur.com/K73SGDB.png "Sideslip") 
 
-**Status:** Coming Soon
+![](https://i.imgur.com/vZbiEkm.png "Sideslip") 
 
 **Record:** 0-0
 
