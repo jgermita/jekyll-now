@@ -4,6 +4,7 @@
 
 ![](https://i.imgur.com/KR5Z5Yo.png "Level 5 Robotics") 
 
+I've been building combat robots as (another) (very expensive) hobby since 2016. Some of them came out alright. 
 
 ## Active Robots
 
