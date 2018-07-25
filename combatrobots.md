@@ -79,7 +79,7 @@ Controls testbed for Blackout
 
 ---
 
-![](https://i.imgur.com/b1VKCTH.png "Sideslip") 
+![](https://i.imgur.com/K73SGDB.png "Sideslip") 
 
 **Status:** Coming Soon
 
