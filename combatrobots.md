@@ -1,6 +1,4 @@
 
-# Combat Robots
-
 ## Active Robots
 
 ![](https://i.imgur.com/sHEKu1z.png "Sandstorm") 
@@ -75,6 +73,8 @@ Controls testbed for Blackout
 
 **Built:** Soon
 
+~~Vertical~~ Horizontal Spinner
+
 ---
 
 ![](https://i.imgur.com/b1VKCTH.png "Sideslip") 
@@ -88,3 +88,5 @@ Controls testbed for Blackout
 **Actual Weight:** ??
 
 **Built:** Soon
+
+_Nyoom_
