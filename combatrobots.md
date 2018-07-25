@@ -1,4 +1,6 @@
-#
+# Combat Robots
+
+![](https://i.imgur.com/KR5Z5Yo.png "Level 5 Robotics") 
 
 
 ## Active Robots
