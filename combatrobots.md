@@ -1,9 +1,13 @@
 # Combat Robots
 
+---
+
 ![](https://i.imgur.com/KR5Z5Yo.png "Level 5 Robotics") 
 
 
 ## Active Robots
+
+---
 
 ![](https://i.imgur.com/sHEKu1z.png "Sandstorm") 
 
@@ -41,6 +45,8 @@ Second attempt with an emphasis on more efficient packaging and cleaner aestheti
 
 ## Retired Robots
 
+---
+
 ![](https://i.imgur.com/v1N655V.png "Blackout") 
 
 ![](https://i.imgur.com/iRiYpj0m.jpg "Blackout")
@@ -64,6 +70,8 @@ This was my first attempt at a combat robot. It came in overweight, overbudget, 
 Controls testbed for Blackout
 
 ## Coming soon
+
+---
 
 ![](https://i.imgur.com/XA5vA93.png "Mirage") 
 
