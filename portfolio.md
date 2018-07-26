@@ -2,24 +2,14 @@
 
 Here's a collection of various personal mechanical, electrical, and software design projects I've worked on.
 
-### Echo - Summer 2017
-![ ](https://i.imgur.com/fFUtYjOm.png)
+### Combat Robots
 
-![ ](https://i.imgur.com/mOHeoP1m.png)
-
-15lb scale combat robot with custom designed frame and components. Structure is designed in Autodesk Inventor and manufactured using waterjet and CNC milling machines.
+My combat robots have been moved to this [page!](http://www.jgermita.me/combatrobots/)
 
 ### [frc-parts](https://jgermita.github.io/frc-parts/) - Summer 2017
 ![ ](http://i.imgur.com/hxE89kVm.png)
 
 Platform for the archival and documentation of commonly-used and niche parts in FIRST Robotics Competition mechanical and electrical systems design. 
-
-### [Blackout](https://www.youtube.com/watch?v=wirLJnvzQlU) - Winter 2016
-![ ](https://i.imgur.com/wsRTcaVm.png)
-
-[![Blackout](http://i.imgur.com/N1YtRkDm.png)](https://www.youtube.com/watch?v=wirLJnvzQlU "blackout")
-
-15lb scale combat robot with custom designed frame and control system.
 
 ### frc-oracle - Spring 2016
 ![ ](http://i.imgur.com/ZnsLNY8m.png)
