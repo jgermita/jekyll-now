@@ -34,6 +34,10 @@ Here are some of the key features:
 
 ![](https://i.imgur.com/EcUtyBcm.jpg)
 
+*Shock mounted drive motors*
+
+![](https://i.imgur.com/S0wNAgR.gif)
+
 *It has a twin.*
 
 ![](https://i.imgur.com/N40d2aOm.jpg)
@@ -41,4 +45,8 @@ Here are some of the key features:
 *It likes to chew on aluminum.*
 
 ![](https://i.imgur.com/ywEuv6Am.jpg)
+
+*It can self right most of the time*
+
+![](https://i.imgur.com/jYgFatt.gif)
 
