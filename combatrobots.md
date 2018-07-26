@@ -28,6 +28,8 @@ I've been building combat robots as (another) (very expensive) hobby since 2016.
 
 Echo but smaller and better. Features an ABS unibody frame, 6061 structural rails, S7 weapon, and Grade 5 titanium front armor
 
+Read more about it in [this](http://www.jgermita.me/Sandstorm/) blog post
+
 ---
 
 ![](https://i.imgur.com/4i1ynSF.png "Echo") 
