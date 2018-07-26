@@ -4,6 +4,8 @@ Here's a collection of various personal mechanical, electrical, and software des
 
 ### Combat Robots
 
+![](https://i.imgur.com/KR5Z5Yo.png "Level 5 Robotics") 
+
 My combat robots have been moved to this [page!](http://www.jgermita.me/combatrobots/)
 
 ### [frc-parts](https://jgermita.github.io/frc-parts/) - Summer 2017
