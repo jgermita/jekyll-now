@@ -8,6 +8,12 @@ Here's a collection of various personal mechanical, electrical, and software des
 
 My combat robots have been moved to this [page!](http://www.jgermita.me/combatrobots/)
 
+### 3D Printed Yoyo 2018 - Spring 2018
+![](https://i.imgur.com/RYzrewBm.jpg)
+
+Second attempt at a playable 3D printed yoyo. 
+
+
 ### [frc-parts](https://jgermita.github.io/frc-parts/) - Summer 2017
 ![ ](http://i.imgur.com/hxE89kVm.png)
 
