@@ -100,7 +100,7 @@ Controls testbed for Blackout
 
 **Record:** 0-0
 
-**Weight Class:** ??
+**Weight Class:** 3lb
 
 **Actual Weight:** ??
 
@@ -108,11 +108,13 @@ Controls testbed for Blackout
 
 _Nyoom_
 
+---
+
 ![](https://i.imgur.com/BAl7B8s.png "Sudowoodo")
 
 **Record:** 0-0
 
-**Weight Class:** ??
+**Weight Class:** 1lb
 
 **Actual Weight:** ??
 
