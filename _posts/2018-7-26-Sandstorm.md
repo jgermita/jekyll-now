@@ -16,7 +16,7 @@ Sandstorm is my newest attempt at combat robots. It's a beetleweight vertical sp
 
 **Built:** Summer 2018
 
-**Weapon:** Vertical spinner. 4.7" effective diameter. S7 Tool Steel (54HRc)
+**Weapon:** Vertical spinner. 4.7" effective diameter. 81 mph tip speed. S7 Tool Steel (54HRc)
 
 **Drivetrain:** Botkits 22mm motors / Botkits 2.75"x1" foam wheels - 9 ft/sec / 6 mph
 
