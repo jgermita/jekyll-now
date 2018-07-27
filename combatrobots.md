@@ -107,3 +107,15 @@ Controls testbed for Blackout
 **Built:** Soon
 
 _Nyoom_
+
+![](https://i.imgur.com/BAl7B8s.png "Sudowoodo")
+
+**Record:** 0-0
+
+**Weight Class:** ??
+
+**Actual Weight:** ??
+
+**Built:** Soon
+
+Cardboard Ant
