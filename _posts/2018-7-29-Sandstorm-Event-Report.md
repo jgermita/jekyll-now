@@ -3,6 +3,8 @@ layout: post
 title: Sandstorm Event Report
 ---
 
+![](https://i.imgur.com/zwK8Iijl.jpg)
+
 Sandstorm performed fairly well for my first competitive entry in combat robotics. Destruction Under the Stars was an absolute blast and I'm quite happy with how things shook down. 
 
 ## Fight Summaries
@@ -25,6 +27,8 @@ This was a scary fight going in. Impact is the defending champion with a very po
 
 We traded some incredible weapon to weapon blows with Impact taking out one of my front armor plates early on. In the final moments of the fight, the weapon belt derailed causing me to lose my weapon. Luckily it derailed as it hit top speed, so I had about a second to make one last hit before it was too slow to do any damage. I was able to land a final hit that launched impact over the arena wall. Win by KO.
 
+![](https://i.imgur.com/JjeBcH0l.jpg)
+
 ### Sandstorm vs Unknown Avenger
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x9qFKX6-FsM?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -43,11 +47,17 @@ Duct Spartan is another aggressively driven control bot. The effective D2 drivet
 
 Loss via Judge Decision.
 
+![](https://i.imgur.com/qY5nyRWl.jpg)
+
+*Game Face*
+
 ### BONUS: Beetleweight Rumble
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a5s96Op8Jpw?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-This was the most absurdly fun robot thing I've ever done. 10 robots, 1 box, lots of fun. Sandstorm Alpha took to the box in this one. It was the last remaining KE weapon in the rumble mostly due to some cautious driving away from the pit door. I got greedy for kills and started driving closer and closer to the door when I got hung up by the antweight Meatball. We were both taken out by Burnt Toast Man and Smee. 
+This was the most absurdly fun robot thing I've ever done. 10 robots, 1 box, lots of fun. Sandstorm Alpha took to the box in this one. It was the last remaining KE weapon in the rumble mostly due to some cautious driving away from the pit door. I got greedy for kills and started driving closer and closer to the door when I got hung up by the antweight Meatball. We were both taken out by Burnt Toast Man and Smee.
+
+![](https://i.imgur.com/wAW7m4Hl.jpg)
 
 ## TL;DR
 
@@ -84,3 +94,4 @@ This was the most absurdly fun robot thing I've ever done. 10 robots, 1 box, lot
 * If I can attend the 12lb event this fall, Echo will get a weapon system revamp to compete.
 
 Thanks to everyone I met at Destruction Under the Stars. The combat robotics community is very welcoming and positive. Can't wait to see you all at the next one!
+
