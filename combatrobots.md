@@ -14,7 +14,9 @@ I've been building combat robots as (another) (very expensive) hobby since 2016.
 
 ![](https://i.imgur.com/9s8z3tam.jpg "Sandstorm") 
 
-**Record:** 0-0
+**Record:** 2-2
+
+**Events:** Destruction Under the Stars 2018([Event Report](http://www.jgermita.me/Sandstorm-Event-Report/))
 
 **Weight Class:** 3lb
 
