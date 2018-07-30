@@ -9,6 +9,8 @@ title: Sandstorm Event Report
 
 Sandstorm performed fairly well for my first competitive entry in combat robotics. Destruction Under the Stars was an absolute blast and I'm quite happy with how things shook down. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NvqiugdCWNw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Fight Summaries
 
 ### Sandstorm vs Gobble Gobble
