@@ -5,6 +5,8 @@ title: Sandstorm Event Report
 
 ![](https://i.imgur.com/zwK8Iijl.jpg)
 
+*Sandstorm Alpha(Left) and Beta(Right)*
+
 Sandstorm performed fairly well for my first competitive entry in combat robotics. Destruction Under the Stars was an absolute blast and I'm quite happy with how things shook down. 
 
 ## Fight Summaries
@@ -35,7 +37,7 @@ We traded some incredible weapon to weapon blows with Impact taking out one of m
 
 Unknown Avenger is a well driven control bot. I knew that I had to keep my weapon functional for the entire fight to guarantee the W. Because of the weapon flipping issue, I knew that I couldn't win any judge decisions. Unknown Avenger capitalized on the time I spent getting back into fighting stance. He did not let up for the entire fight. As was the story with the last fight, I lost my weapon belt. I was unable to get into attacking position before it stopped and the fight turned into a wedge war. 
 
-Additionally, I was fighting weird electrical issues all fight. My weapon was working just fine throughout, but I chose to spin it down at certain moments so I can reliably drive into position. Post mortem in the pit led me to believe that with the 1.5" wide wheels, I had too much traction so any time I hit a wall or robot, motors would stall vs wheels slipping. After an entire fight of stalling, they weren't performing quite as well towards the end. A quick glance after the rumble 
+Additionally, I was fighting weird electrical issues all fight. My weapon was working just fine throughout, but I chose to spin it down at certain moments so I can reliably drive into position. Post mortem in the pit led me to believe that with the 1.5" wide wheels, I had too much traction so any time I hit a wall or robot, motors would stall vs wheels slipping. After an entire fight of stalling, they weren't performing quite as well towards the end. A quick glance after the rumble suggested that one of my LED strips was shorting out, potentially causing some other issues. I have yet to do a full diagnosis on the robot to identify any further issues.
 
 Loss via Judge Decision.
 
@@ -66,6 +68,7 @@ This was the most absurdly fun robot thing I've ever done. 10 robots, 1 box, lot
 * Overall the system worked. Was able to drive pretty well and land some great hits.
 * Never got KO'd 
 * Zero fatal electrical issues
+* Having a whole functional spare robot was really nice.
 
 ### The Bad
 
