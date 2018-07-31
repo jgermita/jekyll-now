@@ -96,6 +96,21 @@ Controls testbed for Blackout
 
 ---
 
+
+![](https://i.imgur.com/2BDxqMH.png "Mirage") 
+
+**Record:** 0-0
+
+**Weight Class:** 1lb
+
+**Actual Weight:** ??
+
+**Built:** Soon
+
+Lil Sandstorm
+
+---
+
 ![](https://i.imgur.com/K73SGDB.png "Sideslip") 
 
 ![](https://i.imgur.com/vZbiEkm.png "Sideslip") 
@@ -106,7 +121,7 @@ Controls testbed for Blackout
 
 **Actual Weight:** ??
 
-**Built:** Soon
+**Built:** Eventually
 
 _Nyoom_
 
@@ -120,6 +135,6 @@ _Nyoom_
 
 **Actual Weight:** ??
 
-**Built:** Soon
+**Built:** Eventually
 
 Cardboard Ant
