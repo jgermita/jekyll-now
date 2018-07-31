@@ -20,4 +20,5 @@ _Semi-coherent ramblings about the things I work on._
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+  
 </div>
