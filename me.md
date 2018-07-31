@@ -1,5 +1,4 @@
 
-# Experience
 ## Current
 ### Network Systems Administrator - [The Palmdale Aerospace Academy](http://www.tpaa.org/) - June 2015 to Current.
 In addition to helpdesk duties, developed and coordinated system- and campus-wide maintenance and service procedures. Assisted with the setup and configuration of a network servicing over 2000 staff member and student user accounts and over 2500 clients utilizing Cisco and Cisco-Meraki equipment. Other duties: Windows server administration, device specifications and procurement, and STEM technology support and maintenance(3D printers, CNC routers, etc).
@@ -10,7 +9,6 @@ In addition to helpdesk duties, developed and coordinated system- and campus-wid
 Coordinates with school administration and faculty to facilitate unparalleled opportunities for high school students to work with industry professionals to design, build, and program World Championship caliber robots for the FIRST Robotics Competition.
 
 As a team, we've won multiple regional events and the 2015 World Championship in addition to continued community outreach to promote enthusiasm for STEM fields.
-
 
 ## Past
 
