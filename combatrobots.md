@@ -2,11 +2,23 @@
 
 ---
 
-![](https://i.imgur.com/KR5Z5Yo.png "Level 5 Robotics") 
+![](https://i.imgur.com/e5rsld6.png "Level 5 Robotics") 
 
 I've been building combat robots as (another) (very expensive) hobby since 2016. Some of them came out alright. 
 
+*About Level 5 Robotics:* The name Level 5 is a carryover of my very first introduction to robotics - my middle school's FIRST LEGO League team. The name retired as we aged out of the program, but I chose to recommission it as the name for my exploits in combat robotics. 
+
+I take aesthetics and branding very seriously - sometimes too seriously... Aesthetically all robots feature a primarily black frame with an accent color for all of the fun bits. I feel this gives each robot a distinctive and memorable look among a sea of gray, white, and black robots. 
+
+Thematically, I choose robot names that sound interesting intimidating. My more recent robots have also been named after things found in the desert - where I build most of my robots. 
+
+<table><tr><td> [Active Robots](http://www.jgermita.me/combatrobots/#active) </td><td> [Retired Robots](http://www.jgermita.me/combatrobots/#retired) </td><td> [Coming Soon](http://www.jgermita.me/combatrobots/#soon) </td></tr></table>
+
+<div id="active"/>
+
 ## Active Robots
+
+Ready for combat!
 
 ---
 
@@ -52,7 +64,11 @@ Read more about it in [this](http://www.jgermita.me/Sandstorm/) blog post
 
 Second attempt with an emphasis on more efficient packaging and cleaner aesthetics. Featured #allbrushlesseverything and anodized parts throughout. Improved on Blackout's traction and weapon issues. Need to improve wedge mounting and geometry before Echo is ready for combat. 
 
+<div id="retired"/>
+
 ## Retired Robots
+
+Robots that are no longer in service. 
 
 ---
 
@@ -76,7 +92,11 @@ This was my first attempt at a combat robot. It came in overweight, overbudget, 
 
 Controls testbed for Blackout
 
+<div id="soon"/>
+
 ## Coming soon
+
+Some robots I have in the pipeline for future events
 
 ---
 
