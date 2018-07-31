@@ -8,7 +8,7 @@ I take aesthetics and branding very seriously - sometimes too seriously... Aesth
 
 Thematically, I choose robot names that sound interesting or intimidating. My more recent robots have also been named after things found in the desert - where I build most of my robots. 
 
-<table><tr><th><a href="http://www.jgermita.me/combatrobots/#active">Active Robots</a></th><th><a href="http://www.jgermita.me/combatrobots/#retired">Retired Robots</a></th><th><a href="http://www.jgermita.me/combatrobots/#soon">Coming Soon</a></th></tr>
+<table><tr><th>  <a href="http://www.jgermita.me/combatrobots/#active">Active Robots</a>  </th><th>  <a href="http://www.jgermita.me/combatrobots/#retired">Retired Robots</a>  </th><th>  <a href="http://www.jgermita.me/combatrobots/#soon">Coming Soon</a>  </th></tr>
 <tr><td>Sandstorm</td><td>Blackout</td><td>Mirage</td></tr>
 <tr><td>Echo</td><td>Amazon Prime</td><td>Dust Devil</td></tr>
 <tr><td></td><td></td><td>Sideslip</td></tr>
