@@ -102,3 +102,15 @@ This was the most absurdly fun robot thing I've ever done. 10 robots, 1 box, lot
 
 Thanks to everyone I met at Destruction Under the Stars. The combat robotics community is very welcoming and positive. Can't wait to see you all at the next one!
 
+*Edit 7/31* More thoughts on what to change in designs moving forward
+
+* Change batteries to XT30s. JST connectors that come stock on my batteries can only deliver about 10A continuous. XT30s can handle more, allowing me to use more of the battery's discharge current. 
+* MAYBE make the battery smaller? Chargers showed I never really drained more than 25% of the battery's capacity per fight. This may change with the XT30 upgrade
+* Top cover mounting screws to 6-32, use fewer screws. 4-40 heat set inserts were a little finicky to align, screws don't really come much longer than 1.5", and the clearance hole diameter is a little funky to cut on the CNC I use. 
+* Put LEDs on a fused circuit just in case they get damaged. 
+* Maybe do a small batch of press/screw on propdrive flanges for belt applications. 
+* Do better testing vs wedges. Maybe build a wedge for testing? Maybe magnets would be a good idea?
+* Single tooth weapon will probably be better for the Sandstorm design. 
+
+
+
