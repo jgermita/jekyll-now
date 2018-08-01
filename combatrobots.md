@@ -110,7 +110,7 @@ Some robots I have in the pipeline for future events
 
 ![](https://i.imgur.com/XA5vA93.png "Mirage") 
 
-![](https://i.imgur.com/2gkhBRd.png "Mirage") 
+![](https://i.imgur.com/sancn66.png "Mirage") 
 
 **Record:** 0-0
 
@@ -125,7 +125,9 @@ Some robots I have in the pipeline for future events
 ---
 
 
-![](https://i.imgur.com/2BDxqMH.png "Mirage") 
+![](https://i.imgur.com/2BDxqMH.png "Dust Devil") 
+
+![](https://i.imgur.com/wxUlVHB.png)
 
 **Record:** 0-0
 
