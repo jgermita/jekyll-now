@@ -108,11 +108,17 @@ Some robots I have in the pipeline for future events
 
 ---
 
+![](https://i.imgur.com/MvhidVo.png) 
+
+![](https://i.imgur.com/HxgXQHS.png) 
+
+Minitaur
+
+---
+
 ![](https://i.imgur.com/XA5vA93.png "Mirage") 
 
 ![](https://i.imgur.com/sancn66.png "Mirage") 
-
-**Record:** 0-0
 
 **Weight Class:** 3lb
 
@@ -129,15 +135,14 @@ Some robots I have in the pipeline for future events
 
 ![](https://i.imgur.com/wxUlVHB.png)
 
-**Record:** 0-0
-
 **Weight Class:** 1lb
 
 **Actual Weight:** ??
 
 **Built:** Soon
 
-Lil Sandstorm
+_What weapon does Dust Devil use?_
+Yes.
 
 ---
 
@@ -145,9 +150,7 @@ Lil Sandstorm
 
 ![](https://i.imgur.com/vZbiEkm.png "Sideslip") 
 
-**Record:** 0-0
-
-**Weight Class:** 3lb
+**Weight Class:** ??
 
 **Actual Weight:** ??
 
@@ -158,8 +161,6 @@ _Nyoom_
 ---
 
 ![](https://i.imgur.com/BAl7B8s.png "Sudowoodo")
-
-**Record:** 0-0
 
 **Weight Class:** 1lb
 
