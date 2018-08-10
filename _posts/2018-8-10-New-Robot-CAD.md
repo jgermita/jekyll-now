@@ -33,7 +33,7 @@ Same Propdrive motor as the vertical, but in a belt reduction setup driving a 3"
 ## Flipper
 ![](https://i.imgur.com/4RBZmGem.png)
 
-Features a choo-choo linkage spring loaded flipper like Tantrum and a lot of other robots by Aren. Linkage is driven by a 26rpm motor from Servo City. This is certainly the module that will see more IRL tinkering because of the linkage lengths. One detail I'm particularly proud of is figuring out how to use an actobotics hub as the choo choo hun rather than manufacturing it myself. 
+Features a choo-choo linkage spring loaded flipper like Tantrum and a couple of other robots by Aren. Linkage is driven by a 26rpm motor from Servo City. This is certainly the module that will see more IRL tinkering because of the linkage lengths. One detail I'm particularly proud of is figuring out how to use an actobotics hub as the choo choo hub rather than manufacturing it myself. 
 
 ## Wedge
 ![](https://i.imgur.com/Vb1FSB3m.png)
