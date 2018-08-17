@@ -139,7 +139,7 @@ Minitaur
 
 **Actual Weight:** ??
 
-**Built:** Soon
+**Built:** In Progress ([Build Blog](http://www.jgermita.me/ddbuildblog/))
 
 _What weapon does Dust Devil use?_
 Yes.
