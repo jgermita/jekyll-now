@@ -112,6 +112,12 @@ Some robots I have in the pipeline for future events
 
 ![](https://i.imgur.com/HxgXQHS.png) 
 
+**Weight Class:** 12lb
+
+**Actual Weight:** ??
+
+**Built:** In Progress ([Build Blog](http://www.jgermita.me/jsbuildblog/))
+
 Minitaur
 
 ---
