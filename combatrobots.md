@@ -15,13 +15,6 @@ th, td {
 }
 </style>
 
-<table><tr><th>  <a href="http://www.jgermita.me/combatrobots/#active">Active Robots</a>  </th><th>  <a href="http://www.jgermita.me/combatrobots/#retired">Retired Robots</a>  </th><th>  <a href="http://www.jgermita.me/combatrobots/#soon">Coming Soon</a>  </th></tr>
-<tr><td>Sandstorm</td><td>Blackout</td><td>Mirage</td></tr>
-<tr><td>Echo</td><td>Amazon Prime</td><td>Dust Devil</td></tr>
-<tr><td></td><td></td><td>Sideslip</td></tr>
-<tr><td></td><td></td><td>Sudowoodo</td></tr>
-</table>
-
 <div id="active"/>
 
 ## Active Robots
@@ -34,9 +27,9 @@ Ready for combat!
 
 ![](https://i.imgur.com/9s8z3tam.jpg "Sandstorm") 
 
-**Record:** 2-2
+**Record:** 3-4
 
-**Events:** Destruction Under the Stars 2018([Event Report](http://www.jgermita.me/Sandstorm-Event-Report/))
+**Events:** Destruction Under the Stars 2018([Event Report](http://www.jgermita.me/Sandstorm-Event-Report/)), Sparklecon Smash 2019 ([Event Report](http://www.jgermita.me/Sparklecon-Smash-Event-Report/))
 
 **Weight Class:** 3lb
 
@@ -44,11 +37,11 @@ Ready for combat!
 
 **Built:** Summer 2018
 
-**Weapon:** Vertical spinner. 4.7" effective diameter. 81 mph tip speed. S7 Tool Steel (54HRc)
+**Weapon:** Vertical spinner. 4.7" effective diameter. 81 mph tip speed. AR400 Steel
 
-**Drivetrain:** Botkits 22mm motors / Botkits 2.75"x1" foam wheels - 9 ft/sec / 6 mph
+**Drivetrain:** Botkits 22mm motors / ~Botkits 2.75"x1" foam wheels~ Vex Robotics 3" Straight Flex Wheels
 
-Echo but smaller and better. Features an ABS unibody frame, 6061 structural rails, S7 weapon, and Grade 5 titanium front armor
+Echo but smaller and better. Features an ABS unibody frame, 6061 structural rails, AR400 Weapon, and Grade 5 titanium front armor
 
 Read more about it in [this](http://www.jgermita.me/Sandstorm/) blog post
 
@@ -58,15 +51,17 @@ Read more about it in [this](http://www.jgermita.me/Sandstorm/) blog post
 
 ![](https://i.imgur.com/mOHeoP1m.png "Echo") 
 
-**Record:** 0-0
+**Record:** 0-2
+
+**Events:** Sparklecon Smash 2019 ([Event Report](http://www.jgermita.me/Sparklecon-Smash-Event-Report/))
 
 **Weight Class:** 12lb
 
-**Actual Weight:** 11.8lb
+**Actual Weight:** 11.9lb
 
 **Built:** Summer 2017
 
-**Weapon:** Vertical spinner. 5.5" effective diameter asymmetrical drum. 6061 drum installed, upgrades to S7 weapon planned
+**Weapon:** Vertical spinner. 5.5" effective diameter asymmetrical drum. AR500 Disk
 
 **Drivetrain:** NTM Propdrive 35 series motors / 3.25" Vex Versawheels - 20 ft/sec / 13 mph
 
@@ -100,78 +95,4 @@ This was my first attempt at a combat robot. It came in overweight, overbudget, 
 
 Controls testbed for Blackout
 
-<div id="soon"/>
 
-## Coming soon
-
-Some robots I have in the pipeline for future events
-
----
-
-![](https://i.imgur.com/MvhidVo.png) 
-
-![](https://i.imgur.com/HxgXQHS.png) 
-
-**Weight Class:** 12lb
-
-**Actual Weight:** ??
-
-**Built:** In Progress ([Build Blog](http://www.jgermita.me/jsbuildblog/))
-
-Minitaur
-
----
-
-![](https://i.imgur.com/XA5vA93.png "Mirage") 
-
-![](https://i.imgur.com/sancn66.png "Mirage") 
-
-**Weight Class:** 3lb
-
-**Actual Weight:** ??
-
-**Built:** Soon
-
-~~Vertical~~ Horizontal Spinner
-
----
-
-
-![](https://i.imgur.com/2BDxqMH.png "Dust Devil") 
-
-![](https://i.imgur.com/wxUlVHB.png)
-
-**Weight Class:** 1lb
-
-**Actual Weight:** ??
-
-**Built:** In Progress ([Build Blog](http://www.jgermita.me/ddbuildblog/))
-
-_What weapon does Dust Devil use?_
-Yes.
-
----
-
-![](https://i.imgur.com/K73SGDB.png "Sideslip") 
-
-![](https://i.imgur.com/vZbiEkm.png "Sideslip") 
-
-**Weight Class:** ??
-
-**Actual Weight:** ??
-
-**Built:** Eventually
-
-_Nyoom_
-
----
-
-![](https://i.imgur.com/BAl7B8s.png "Sudowoodo")
-
-**Weight Class:** 1lb
-
-**Actual Weight:** ??
-
-**Built:** Eventually
-
-Cardboard Ant
