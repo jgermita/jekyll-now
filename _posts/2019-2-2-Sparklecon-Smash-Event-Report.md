@@ -3,14 +3,13 @@ layout: post
 title: Sparklecon Smash Event Report
 ---
 
-![](https://i.imgur.com/lrgjMzEl.png)
- 
-*CAD for both robots from late December.*
-
 ![](https://i.imgur.com/mlSHik2l.png)
 
 *Echo(Left) and Sandstorm(Right) Pre-event*
 
+![](https://i.imgur.com/lrgjMzEl.png)
+ 
+*CAD for both robots from late December.*
 
 
 ### Echo
