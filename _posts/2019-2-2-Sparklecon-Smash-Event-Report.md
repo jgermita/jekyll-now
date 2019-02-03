@@ -11,6 +11,8 @@ title: Sparklecon Smash Event Report
  
 *CAD for both robots from late December.*
 
+Sparklecon Smash was a blast. I entered two bots: Sandstorm and Echo. 
+
 
 ### Echo
 
@@ -52,6 +54,8 @@ Fork was in control the entire match. I lost my weapon belt again and was simply
 
 I love rumbles. there was just an absurd amount of power kicking around the combined 12/15lb rumble. Echo was working better after some spacer adjustments, but ended up getting high centered on the floor tiles a couple of times. A couple of hits, but ultimately I just wanted to see what kind of damage it could sustain and still drive. It surprisingly took a few blows before finally losing drive chain on both sides. Since my driven wheels are in the rear and my CG in the front, I didn't have much traction to do much of anything. I almost left before the rumble, but ultimately, I'm glad I participated. I was able to get a good look at what kind of damage I should plan for in the future. 
 
+Finish: 7th place, 0-2 record, out in losers bracket first round. 
+
 ### Sandstorm
 
 ![](https://i.imgur.com/plDAaHfl.png)
@@ -88,6 +92,8 @@ Turbo Dog is a terrifying vertical drum. I was able to stay on the offensive ear
 ![](https://i.imgur.com/P5Q7yZpl.png)
 
 A great match vs a great bot. Lynx eventually went on to win the event, but along the way they showed me exactly where all of Sandstorm's weakpointss were. Loss via KO.
+
+Finish: 5th place, 1-2 record, out in losers bracket round 3.
 
 ### Closing thoughts
 
