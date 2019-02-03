@@ -22,7 +22,7 @@ I initially built Echo in the fall of 2017 as a second attempt to get a 12lb rob
 
 *Echo's first iteration*
 
-After the announcement of the return of the 12lb weight class to Socal events, I've been designing various upgrades to make Echo competitive. after almost 5 months of on and off CAD work, I settled on a few upgrades:
+Since the announcement of the return of the 12lb weight class to Socal events, I've been designing various upgrades to make Echo competitive. After almost 5 months of on and off CAD work, I settled on a few upgrades:
 
 * 1/8" titanium wedge
 * AR500 steel asymmetrical weapon bar
@@ -30,7 +30,7 @@ After the announcement of the return of the 12lb weight class to Socal events, I
 
 I decided to keep the same drive, controls, and structural systems. 
 
-I was fairly satisfied with the state of Echo going into the event, but I knew there were so many issues inherent to the design itself that I had to be careful if I wanted to do well. 
+Echo had a few issues going into the event that I knew would hurt me in the long run. I couldn't spend as much time as I wanted making sure all of the drive ESC settings were tuned in so I had sporadic glitchy drive control at best. I also had a lot of weapon belt issues in practice that I thought I had resolved. (Spoiler alert: I was wrong)
 
 #### Fights
 
@@ -55,6 +55,7 @@ I love rumbles. there was just an absurd amount of power kicking around the comb
 ### Sandstorm
 
 ![](https://i.imgur.com/plDAaHfl.png)
+
 After [Destruction Under the Stars](http://www.jgermita.me/Sandstorm-Event-Report/), I had a lot of ideas for upgrades to Sandstorm. Ultimately, I put Sandstorm up on the proverbial shelf for a few months to figure out where I wanted to go with it.
 
 The upgrades I settled on were:
@@ -92,3 +93,4 @@ A great match vs a great bot. Lynx eventually went on to win the event, but alon
 
 I'm excited for the event in May. Not quite sure what specific upgrades I'll be making at the moment, but after the damage sustained by both robots, they won't be minor. 
 
+I may edit this post at some point this week to do a full post-mortem on both bots. 
