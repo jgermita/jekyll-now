@@ -6,7 +6,6 @@ I've been building combat robots as (another) (very expensive) hobby since 2016.
 
 I take aesthetics and branding very seriously - sometimes too seriously... Aesthetically all robots feature a primarily black frame with an accent color for all of the fun bits. I feel this gives each robot a distinctive and memorable look among a sea of gray, white, and black robots. 
 
-Thematically, I choose robot names that sound interesting or intimidating. My more recent robots have also been named after things found in the desert - where I build most of my robots. 
 
 <style>
 th, td {
