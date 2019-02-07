@@ -77,7 +77,7 @@ I actually didn't spend too much time on Sandstorm pre-event compared to Echo. S
 
 ##### [Sandstorm vs Impact](https://www.twitch.tv/videos/374027699?t=03h19m49s)
 
-I was hoping to have this matchup again. After my match against Impact at Destruction Under the Stars, I wanted to run my new upgrades against Impact to really see how much better 
+I was hoping to have this matchup again. After my match against Impact at Destruction Under the Stars, I wanted to run my new upgrades against Impact to really see how the new upgrades fared. 
 
 Sandstorm worked as well as I'd hoped. There was an arena stick issue caused by the remains of the removed wedge, but other than that it performed how I initially envisioned it. Win via KO.
 
@@ -91,7 +91,7 @@ Turbo Dog is a terrifying vertical drum. I was able to stay on the offensive ear
 
 ![](https://i.imgur.com/P5Q7yZpl.png)
 
-A great match vs a great bot. Lynx eventually went on to win the event, but along the way they showed me exactly where all of Sandstorm's weakpointss were. Loss via KO.
+A great match vs a great bot. Lynx eventually went on to win the event, but along the way they showed me exactly where all of Sandstorm's weakpoints were. Loss via KO.
 
 Finish: 5th place, 1-2 record, out in losers bracket round 3.
 
