@@ -1,6 +1,6 @@
 
-![](https://i.imgur.com/0F7iypUm.jpg "Sirius")
-![](https://i.imgur.com/SsO8cram.png "Luna") ![](https://i.imgur.com/HZStqbcm.jpg "Nagini") ![](https://i.imgur.com/aeWaGbtm.jpg "Mad-Eye") ![](https://i.imgur.com/GfKI9Pjm.jpg "Mischief") ![](https://i.imgur.com/j64vwFPm.jpg "Chaser") ![](https://i.imgur.com/0vceEnqm.jpg "Fawkes")  ![](https://i.imgur.com/IP2E5iQm.jpg "Basilisk") ![](https://i.imgur.com/kwMCjdHm.jpg "The Golden Snitch") 
-![](https://i.imgur.com/ZKOR1Vam.jpg "Cortex") ![](https://i.imgur.com/djcFXSpm.jpg "ENIAC") ![](https://i.imgur.com/VJEp60Vm.jpg "X-1") ![](https://i.imgur.com/wwQPFRnm.jpg "James Bot") ![](https://i.imgur.com/KzRO0cRm.jpg "The Wizard") 
-![](https://i.imgur.com/sfQbyNhm.jpg "Subzero")
-![](https://i.imgur.com/LAttoFrm.jpg "Typhoon") ![](https://i.imgur.com/WUJFcELm.jpg "Almost") ![](https://i.imgur.com/MDA0Doim.jpg "untitled")
+![](https://i.imgur.com/0F7iypUm.jpg "FRC / 5012 / 2019 / Sirius")
+![](https://i.imgur.com/SsO8cram.png "FRC / 5012 / 2018 / Luna") ![](https://i.imgur.com/HZStqbcm.jpg "FRC / 5012 / 2017 Offseason / Nagini") ![](https://i.imgur.com/aeWaGbtm.jpg "Mad-Eye") ![](https://i.imgur.com/GfKI9Pjm.jpg "Mischief") ![](https://i.imgur.com/j64vwFPm.jpg "FRC / 5012 / 2015 Offseason / Chaser") ![](https://i.imgur.com/0vceEnqm.jpg "FRC / 5012 / 2015 / Fawkes")  ![](https://i.imgur.com/IP2E5iQm.jpg "FRC / 5012 / 2014 Offseason / Basilisk") ![](https://i.imgur.com/kwMCjdHm.jpg "FRC / 5012 / 2014 / The Golden Snitch") 
+![](https://i.imgur.com/ZKOR1Vam.jpg "FRC / 399 / 2014 / Cortex") ![](https://i.imgur.com/djcFXSpm.jpg "FRC / 399 / 2013 / ENIAC") ![](https://i.imgur.com/VJEp60Vm.jpg "FRC / 399 / 2012 / X-1") ![](https://i.imgur.com/wwQPFRnm.jpg "FRC / 399 / 2011 / James Bot") ![](https://i.imgur.com/KzRO0cRm.jpg "FRC / 399 / 2010 / The Wizard") 
+![](https://i.imgur.com/sfQbyNhm.jpg "FTC / 7328 / 2014 / Subzero")
+![](https://i.imgur.com/LAttoFrm.jpg "FTC / 72 / 2013 / Typhoon") ![](https://i.imgur.com/WUJFcELm.jpg "FTC / 72 / 2012 / Almost") ![](https://i.imgur.com/MDA0Doim.jpg "FTC / 72 / 2011 / untitled")
