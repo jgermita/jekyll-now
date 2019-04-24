@@ -35,7 +35,7 @@ Ideal PID gain tuning using genetic algorithms.
 ### Montecarlo FRC Match Simulator - Spring 2015
 ![ ](http://i.imgur.com/hMHBStLm.png)
 
-Java-based simulator and prediction engine for FIRST Robotics Competition Matches. Analytics generated were discussed on [GameSense S02E08](https://www.youtube.com/watch?v=cGWIVc-ReMA). 
+Java-based simulator and prediction engine for FIRST Robotics Competition Matches. Analytics generated were discussed on [GameSense S02E08](https://www.youtube.com/watch?v=cGWIVc-ReMA). Results and community discussion can be found [here.](https://www.chiefdelphi.com/t/2015-championship-division-simulated-rankings/143926?u=jeremy_germita)
 
 ### Video Game Controller MIDI Controller Mod - Summer 2013 to Summer 2014
 ![ ](http://i.imgur.com/UVN8pQ7m.png)
