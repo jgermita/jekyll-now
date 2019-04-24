@@ -1,10 +1,5 @@
 ![](https://i.imgur.com/e5rsld6.png "Level 5 Robotics") 
 
-I've been building combat robots as (another) (very expensive) hobby since 2016. Some of them came out alright. 
-
-*About Level 5 Robotics:* The name Level 5 is a carryover of my very first introduction to robotics - my middle school's FIRST LEGO League team. The name retired as we aged out of the program, but I chose to recommission it as the name for my exploits in combat robotics. 
-
-I take aesthetics and branding very seriously - sometimes too seriously... Aesthetically all robots feature a primarily black frame with an accent color for all of the fun bits. I feel this gives each robot a distinctive and memorable look among a sea of gray, white, and black robots. 
 
 
 <style>
@@ -17,8 +12,6 @@ th, td {
 <div id="active"/>
 
 ## Active Robots
-
-Ready for combat!
 
 ---
 
