@@ -13,9 +13,9 @@ th, td {
 
 ## Coming Soon
 
-![](https://i.imgur.com/HTKYb6B.png "Sudowoodo")
+![](https://i.imgur.com/l1argms.png "Sudowoodo")
 
-![](https://i.imgur.com/n3RRazP.png "Sideslip")
+![](https://i.imgur.com/d25Deac.png "Sideslip")
 
 ## Active Robots
 
